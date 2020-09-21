@@ -1,4 +1,4 @@
-# bitbucket-replacer
+# bitbucket-sql-server
 
 ## Getting started
 
